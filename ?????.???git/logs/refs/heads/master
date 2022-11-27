@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 0da50fb46568ef072df170de469357bc16726f38 vladiwanov <3298901@gmail.com> 1667418894 +0200	clone: from https://git.heroku.com/iv-engineering.git
+0da50fb46568ef072df170de469357bc16726f38 8fca3689f0a002826413f7a53760db6874f486b6 vladiwanov <3298901@gmail.com> 1667772811 +0200	commit: current changes
+8fca3689f0a002826413f7a53760db6874f486b6 45949afcc30560ec837f8f5f906c6a8e7811e561 vladiwanov <3298901@gmail.com> 1668766794 +0200	commit: make it better
+45949afcc30560ec837f8f5f906c6a8e7811e561 7c962827bc1fdc08caf14b8fa61eea3a23b60e81 vladiwanov <3298901@gmail.com> 1668768113 +0200	commit: make it better
+7c962827bc1fdc08caf14b8fa61eea3a23b60e81 8671b8b423957a9ac2dd309bcdafa55c881032ec vladiwanov <3298901@gmail.com> 1669024030 +0200	commit: fixing creating new contact from different sourses
+8671b8b423957a9ac2dd309bcdafa55c881032ec 2d9a31f6b249d74337d62e779b37d0d9ebc30677 vladiwanov <3298901@gmail.com> 1669027690 +0200	commit: clars logs
+2d9a31f6b249d74337d62e779b37d0d9ebc30677 f6fc7d34ab62fc94987c9e9bf491a19099414d46 vladiwanov <3298901@gmail.com> 1669117906 +0200	commit: fixing creating new contact from different sourses
+f6fc7d34ab62fc94987c9e9bf491a19099414d46 01f80e63328c8cb48ca4b4e778977ad7ff5f9862 vladiwanov <3298901@gmail.com> 1669118051 +0200	commit: fixing new Contact creating
+01f80e63328c8cb48ca4b4e778977ad7ff5f9862 8c2eccdf31508725147e478ccd07b72d2395840f vladiwanov <3298901@gmail.com> 1669538630 +0200	commit: Initial project version
